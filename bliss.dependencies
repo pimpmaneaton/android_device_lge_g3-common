@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "github",
+    "repository": "pimpmaneaton/android_kernel_lge_g3",
+    "target_path": "kernel/lge/g3",
+    "branch": "p9.0"
+  },
+  {
+    "remote": "github",
+    "repository": "crdroidandroid/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch": "9.0"
+  },
+  {
+    "remote": "github",
+    "repository": "pimpmaneaton/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "p9.0"
+  }
+]
